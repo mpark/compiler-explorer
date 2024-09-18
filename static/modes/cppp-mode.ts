@@ -104,6 +104,8 @@ function definition(): monaco.languages.IMonarchLanguage {
         'export',
         'import',
         'module',
+        'match',
+        'let',
         'not',
         'not_eq',
         'or',
